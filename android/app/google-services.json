@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230712877530",
+    "project_id": "campus-navigation-2f274",
+    "storage_bucket": "campus-navigation-2f274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230712877530:android:5648b93e80eb3036a920e3",
+        "android_client_info": {
+          "package_name": "com.mtr.campus_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230712877530-b8vm3hd3ufc3m5vo1fo8ovg6d24u1cp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzPcZYehJgmwzquLf9UcD3M-n4sCykuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230712877530-b8vm3hd3ufc3m5vo1fo8ovg6d24u1cp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

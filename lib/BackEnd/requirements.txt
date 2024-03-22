@@ -1,0 +1,6 @@
+Flask
+transformers
+tensorflow
+torch
+flask-cors
+scikit-learn
